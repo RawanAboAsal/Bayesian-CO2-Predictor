@@ -54,7 +54,7 @@ The dataset used is `CO2 Emission.csv`, which includes various environmental fea
 
 ---
 
-## 🧪 Models Implemented
+##  Models Implemented
 
 ### Bayesian Linear Regression
 - Bayesian models with different priors:
