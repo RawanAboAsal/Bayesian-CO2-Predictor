@@ -39,7 +39,7 @@ The dataset used is `CO2 Emission.csv`, which includes various environmental fea
 - Correlation heatmap for multicollinearity analysis.
 - Target distribution and feature correlation analysis.
 
-### ⚙Feature Engineering and Scaling
+### Feature Engineering and Scaling
 - Applied **StandardScaler** to normalize feature values.
 
 ###  Model Training and Evaluation
